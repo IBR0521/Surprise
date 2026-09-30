@@ -1,9 +1,9 @@
 // All the words on the site live here. Edit this file to personalise it.
 export const content = {
   envelopeHint: "tap the seal to open",
-  letterLine: "For you, Farzina",
+  letterLine: "For you, Shaxnoza",
   intro: {
-    title: "Hi, Farzina",
+    title: "Hi, Shaxnoza",
     text: "Before you get your surprise, answer a few very important questions. Be honest… (there's only one right answer 😼)",
     button: "Okay, I'm ready",
   },
